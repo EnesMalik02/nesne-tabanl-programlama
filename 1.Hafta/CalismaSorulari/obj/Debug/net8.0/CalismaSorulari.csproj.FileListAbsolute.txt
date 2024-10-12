@@ -1,0 +1,14 @@
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\bin\Debug\net8.0\CalismaSorulari.exe
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\bin\Debug\net8.0\CalismaSorulari.deps.json
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\bin\Debug\net8.0\CalismaSorulari.runtimeconfig.json
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\bin\Debug\net8.0\CalismaSorulari.dll
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\bin\Debug\net8.0\CalismaSorulari.pdb
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.AssemblyInfoInputs.cache
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.AssemblyInfo.cs
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.csproj.CoreCompileInputs.cache
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.dll
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\refint\CalismaSorulari.dll
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.pdb
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\CalismaSorulari.genruntimeconfig.cache
+C:\Üniversite\2.Sınıf\Nesne Tabanlı\nesne-tabanl-programlama\1.Hafta\CalismaSorulari\obj\Debug\net8.0\ref\CalismaSorulari.dll
