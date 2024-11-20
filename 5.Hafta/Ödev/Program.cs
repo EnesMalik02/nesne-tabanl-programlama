@@ -1,39 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Ornek1_InsanVeKalp
-{
-    class Kalp
-    {
-        public int KanBasinci { get; set; }
-        public int Nabiz { get; set; }
-
-        public Kalp(int kanBasinci, int nabiz)
-        {
-            KanBasinci = kanBasinci;
-            Nabiz = nabiz;
-        }
-
-        public void KalpBilgisi()
-        {
-            Console.WriteLine($"Kan Basıncı: {KanBasinci}, Nabız: {Nabiz}");
-        }
-    }
-
-    class Insan
-    {
-        public string Ad { get; set; }
-        public Kalp Kalp { get; set; }
-
-        public Insan(string ad)
-        {
-            Ad = ad;
-            Kalp = new Kalp(120, 70);
-        }
-    }
-}
-
-namespace Ornek2_YazarVeKitap
+namespace Ornek1_YazarVeKitap
 {
     class Kitap
     {
@@ -68,7 +36,7 @@ namespace Ornek2_YazarVeKitap
     }
 }
 
-namespace Ornek3_CalisanVeDepartman
+namespace Ornek2_CalisanVeDepartman
 {
     class Departman
     {
@@ -97,7 +65,7 @@ namespace Ornek3_CalisanVeDepartman
     }
 }
 
-namespace Ornek4_UrunVeSiparis
+namespace Ornek3_UrunVeSiparis
 {
     class Urun
     {
@@ -129,7 +97,7 @@ namespace Ornek4_UrunVeSiparis
     }
 }
 
-namespace Ornek5_MusteriVeSiparis
+namespace Ornek4_MusteriVeSiparis
 {
     class Urun
     {
@@ -183,24 +151,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Ornek 1: İnsan ve Kalp
-        var insan = new Ornek1_InsanVeKalp.Insan("Ömer");
-        insan.Kalp.KalpBilgisi();
 
-        // Ornek 2: Yazar ve Kitap
+        // Ornek 1: Yazar ve Kitap
         var yazar = new Ornek2_YazarVeKitap.Yazar("Ahmet Ümit", "Türkiye");
         yazar.KitapEkle(new Ornek2_YazarVeKitap.Kitap("İstanbul Hatırası", "1234567890"));
 
-        // Ornek 3: Çalışan ve Departman
+        // Ornek 2: Çalışan ve Departman
         var departman = new Ornek3_CalisanVeDepartman.Departman("IT", "İstanbul");
         var calisan = new Ornek3_CalisanVeDepartman.Calisan("Ayşe", "Yazılım Mühendisi", departman);
 
-        // Ornek 4: Ürün ve Sipariş
+        // Ornek 3: Ürün ve Sipariş
         var urun1 = new Ornek4_UrunVeSiparis.Urun("Laptop", 5000);
         urun1.UrunBilgisi();
         var siparis1 = new Ornek4_UrunVeSiparis.Siparis(DateTime.Now, 5000);
 
-        // Ornek 5: Müşteri ve Sipariş
+        // Ornek 4: Müşteri ve Sipariş
         var urun2 = new Ornek5_MusteriVeSiparis.Urun("Telefon", "+905551234567");
         var musteri = new Ornek5_MusteriVeSiparis.Musteri("Ömer");
         var siparis2 = new Ornek5_MusteriVeSiparis.Siparis(DateTime.Now, "Hazırlanıyor");
